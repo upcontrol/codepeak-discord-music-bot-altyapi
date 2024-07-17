@@ -35,6 +35,9 @@
 `node .\index.js` komutu ile botumuzu çalıştırıyoruz.
 
 NOT: Bu bot sadece temel düzey javascript ile discord botu oluşturmak ve kendini geliştirmek isteyenler için müzik botunun altyapısını oluşturulmuştur. Botu kurduktan sonra sadece /play YOUTUBE_LİNKİ şeklinde çalışıcaktır. Bu botu geliştirmeniz gerekiyor.
+
+<a href="https://codepeak.com.tr/forumlar/konu/discord-muzik-botu-baslangic/">Code Peak</a>
+
 <p>&nbsp;</p>
 
 ### ([▲](#top)) Setup <a name="enkurulum"></a>
@@ -57,4 +60,7 @@ NOT: Bu bot sadece temel düzey javascript ile discord botu oluşturmak ve kendi
 We run our bot with the `node .\index.js` command.
 
 NOTE: This bot has created the infrastructure of the music bot for those who want to create a discord bot and improve themselves with only basic javascript. After installing the bot, it will only work as `/play YOUTUBE_LINK`. You need to improve this bot.
+
+<a href="https://codepeak.com.tr/forumlar/konu/discord-muzik-botu-baslangic/">Code Peak</a>
+
 <p>&nbsp;</p>
